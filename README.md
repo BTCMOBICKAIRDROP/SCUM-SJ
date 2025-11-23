@@ -1,2 +1,2 @@
-#DASHBOARD
-[DASHBOARD](https://btcmobickairdrop.github.io/SCUM-SJ/)
+#시뮬레이션
+[링크](https://btcmobickairdrop.github.io/SCUM-SJ/)
