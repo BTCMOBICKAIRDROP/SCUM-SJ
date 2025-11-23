@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BTCMOBICKAIRDROP/SCUM-SJ.git/static/css/main.18e11287.css",
+    "main.js": "/BTCMOBICKAIRDROP/SCUM-SJ.git/static/js/main.4ece1383.js",
+    "static/js/879.402fbadd.chunk.js": "/BTCMOBICKAIRDROP/SCUM-SJ.git/static/js/879.402fbadd.chunk.js",
+    "static/js/453.42145387.chunk.js": "/BTCMOBICKAIRDROP/SCUM-SJ.git/static/js/453.42145387.chunk.js",
+    "service-worker.js": "/BTCMOBICKAIRDROP/SCUM-SJ.git/service-worker.js",
+    "index.html": "/BTCMOBICKAIRDROP/SCUM-SJ.git/index.html",
+    "main.18e11287.css.map": "/BTCMOBICKAIRDROP/SCUM-SJ.git/static/css/main.18e11287.css.map",
+    "main.4ece1383.js.map": "/BTCMOBICKAIRDROP/SCUM-SJ.git/static/js/main.4ece1383.js.map",
+    "879.402fbadd.chunk.js.map": "/BTCMOBICKAIRDROP/SCUM-SJ.git/static/js/879.402fbadd.chunk.js.map",
+    "453.42145387.chunk.js.map": "/BTCMOBICKAIRDROP/SCUM-SJ.git/static/js/453.42145387.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.4ece1383.js"
+  ]
+}
